@@ -1,4 +1,5 @@
 # age_gender_detection
+!! THIS IS ACTUALLY A FORK OF THE ORIGINAL WORK OF GinYM !!
 Recognize the age and gender based on face image
 
 Using machine learning techinque to detect the age and gender based on face image automatically.
